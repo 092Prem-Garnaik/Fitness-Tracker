@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/web/login.html</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/web/images/dashboard.jpg</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/src/java/com/fitnesstracker/servlet/RegisterServlet.java</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/src/java/com/fitnesstracker/dao/UserDao.java</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/src/java/com/fitnesstracker/dao/DatabaseConnection.java</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/web/healthinfo.html</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/src/java/com/fitnesstracker/servlet/ProgressTrackingServlet.java</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/web/progressSummary.html</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/web/index.html</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/web/activitydata.html</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/web/register.html</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/src/java/com/fitnesstracker/servlet/HealthInfoServlet.java</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/src/java/com/fitnesstracker/servlet/FitnessGoalsServlet.java</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/web/fitnessgoals.html</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/web/images/fitness.jpg</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/src/java/com/fitnesstracker/model/User.java</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/src/java/com/fitnesstracker/servlet/ExerciseActivityServlet.java</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/web/images/index.jpg</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/src/java/com/fitnesstracker/servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/Anju/OneDrive/Documents/NetBeansProjects/FitnessTracker/web/css/style.css</file>
+        </group>
+    </open-files>
+</project-private>
